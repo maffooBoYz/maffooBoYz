@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#title{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(104, 104, 104);
+    font-size: 50px;
+    text-align: left;
+    padding-left: 25px;
+    padding-top: 7.5px;
+}
+#header{
+    background-color: rgb(206, 206, 206);
+    width: 1680px;
+    height: 75px;
+}
+#under-header{
+    background-color: rgb(104, 104, 104);
+    width: 1680px;
+    height: 10px;
+}
+#picture1{
+    float: right;
+    width: 50%;
+    height: 50%;
+    padding-top: 25px;
+    padding-right: 25px;
+}
+#text1{
+    font-family: Helvetica;
+    font-size: 400%;
+    padding-top: 25px;
+    padding-left: 25px;
+    color: rgb(104, 104, 104);
+}
+#text2{
+    font-family: Helvetica;
+    padding-left: 25px;
+    padding-right: 900px;
+    font-size: 125%;
+}
+#body{
+    background-color: rgb(230, 230, 230);
+}
+#text3{
+    font-family: Helvetica;
+    font-size: 400%;
+    padding-top: 25px;
+    padding-left: 25px;
+    color: rgb(104, 104, 104);
+}
+#text4{
+    font-family: Helvetica;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    font-size: 125%;
+}
+#picture2{
+    width: 50px;
+    height: 50px;
+    float: right;
+    padding-top: 12.5px;
+    padding-right: 25px;
+}
+#sub{
+    font-size: 20px;
+    
+}
